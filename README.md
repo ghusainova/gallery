@@ -1,2 +1,2 @@
 # gallery
-Галерея на php
+Галерея на php, с watermark для фотографий
